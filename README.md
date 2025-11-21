@@ -1,2 +1,2 @@
 # Batch-Script-Ruby-Version-Manager
-&lt;DESCRIPTION>
+This QOL program is meant to mitigate Ruby's drawbacks of backward incompatibility by not only switching between different versions but also allowing the user to run Ruby scripts regardless of which version they are made under. It is not as bad of an experience using Ruby this way, but it is better than trying to use the "curl" command to fetch another type of version manager. Requires some or all versions to be installed for partial/full XP.
